@@ -31,3 +31,5 @@ const product = {
     'price': faker.commerce.price()
 }
 console.log(product);
+
+
